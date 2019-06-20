@@ -1,0 +1,4 @@
+{
+    "AppSyncApiName": "todoGraphQLAPI",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST"
+}

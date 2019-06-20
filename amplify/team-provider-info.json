@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "todo-demo-dev-20190523193331-authRole",
+            "UnauthRoleArn": "arn:aws:iam::795786136057:role/todo-demo-dev-20190523193331-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::795786136057:role/todo-demo-dev-20190523193331-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "todo-demo-dev-20190523193331-deployment",
+            "UnauthRoleName": "todo-demo-dev-20190523193331-unauthRole",
+            "StackName": "todo-demo-dev-20190523193331",
+            "StackId": "arn:aws:cloudformation:eu-central-1:795786136057:stack/todo-demo-dev-20190523193331/e2be29b0-7d80-11e9-ba24-0aee446e3232"
+        },
+        "categories": {
+            "auth": {
+                "cognito628a6248": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+	"auth": {
+		"cognito628a6248": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"api": {
+		"todoGraphQLAPI": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"securityType": "API_KEY"
+			}
+		}
+	},
+	"storage": {
+		"aaaaaa": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
